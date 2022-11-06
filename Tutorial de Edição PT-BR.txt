@@ -1,6 +1,20 @@
-"TUTORIAL" SIMPLES DE EDIÇÃO PARA 'NOVATOS' VERSÃO PT-BR
+"TUTORIAL" SIMPLES DE EDIÇÃO PARA 'NOVATOS' VERSÃO PT-BR"TUTORIAL" DE EDICIÓN SIMPLE PARA LA VERSIÓN 'NEWS' PT-BR
 
-Primeiramente antes de começarmos, gostaria de esclarecer que somente posso prover suporte para a BOT Íris e não irei poder ajuda-lo a editar BOT'S diferentes. - Então vamos começar a explicar sobre a construção da Íris!
+Primero, antes de comenzar, me gustaría aclarar que solo puedo brindar soporte para el BOT Íris y no podré ayudarlo a editar diferentes BOT. - ¡Entonces comencemos a explicar sobre la construcción de Iris!
+
+Hay varios parámetros bien calculados y necesarios, como veremos en los ejemplos a continuación, esto si se elimina puede hacer que su BOT sea inestable.
+
+Usaré nombres como "variables" para hacer referencia a todas las declaraciones de datos, ya sean constantes, parámetros let, variables u otros.
+
+Primero abre el archivo que quieres editar - no quites los créditos jaja - y busca lo que quieres editar, si quieres editar las condiciones aquí hay una lista corta de cosas.
+
+Pondré lo que estoy buscando entre comillas, tenga en cuenta que no necesitará usarlas cuando lo haga, a menos que yo lo diga.
+
+Te enseñaré cómo hacer ediciones con Notepad++ que se pueden comprar aquí en Windows = https://notepad-plus-plus.org
+
+En Linux no existe, pero hay alternativas muy similares como NotepadQQ que puedes conseguir aquí = https://notepadqq.com
+
+Si desea saltar a las partes más directas, presione "CTRL + F" y busque el parámetro deseado a continuación:
 
 Existem diversos parâmetros bem calculados e necessários como veremos nos exemplos abaixo, isso se removido pode deixar sua BOT instável.
 
